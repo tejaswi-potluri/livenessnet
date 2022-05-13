@@ -7,3 +7,4 @@
 # 微信：aijsfx2
 
   可进行AI项目交流
+This is a smaple edit for tutorial
